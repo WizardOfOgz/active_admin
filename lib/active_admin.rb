@@ -1,6 +1,6 @@
 require 'meta_search'
 require 'bourbon'
-require 'devise'
+# require 'devise'
 require 'kaminari'
 require 'formtastic'
 require 'sass'
